@@ -1,0 +1,31 @@
+body{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin: 0
+   
+}
+.ib{
+    color: coral;
+}
+section{
+    display: flex;
+
+}
+.change{
+    width: 50%;
+    padding-left: 2%;
+}
+.change img{
+    width: 450px;;
+}
+.link{
+    text-decoration: none;
+    color:black;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.lfazi{
+    background-image: url(../portfolio/developer-portfolio-master/images/top-banner.png);
+    background-repeat: no-repeat;
+}
