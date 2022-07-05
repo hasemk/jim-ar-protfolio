@@ -29,3 +29,8 @@ section{
     background-image: url(../portfolio/developer-portfolio-master/images/top-banner.png);
     background-repeat: no-repeat;
 }
+.AL-LAST{
+    background-image: url(../portfolio/developer-portfolio-master/images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
